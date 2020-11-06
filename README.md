@@ -4,21 +4,4 @@ This is a project intiated by our team when a pandemic called Covid-19 spread th
 About
 Covid Medical Assistance Application
 
-Resources
- Readme
-Releases
-No releases published
-Create a new release
-Packages
-No packages published
-Publish your first package
-Contributors 6
-@NavyaVijay
-@prathiba7
-@souravmenon1999
-@mahimaprakash
-@FEMI1602
-@Amruthadasvp
-Languages
-Java
-100.0%
+
